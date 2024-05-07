@@ -1,8 +1,8 @@
 {
   "bad_login": "test 1",
-  "login": "testerq",
+  "login": "testerqw",
   "bad_mail": "test4mail.ru",
-  "mail": "test4@mail.ru",
+  "mail": "test45@mail.ru",
   "bad_password": "парол",
   "password": "Pas123",
   "bad_surname": "sur2name!",
@@ -11,5 +11,4 @@
   "name": "Имя с пробелом",
   "bad_patronym": "patr2onym!",
   "patronym": "Отчество-Двойное"
-
 }

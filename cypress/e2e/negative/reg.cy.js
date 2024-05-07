@@ -207,8 +207,7 @@ describe('Registration', () => {
                 .type(data.password)
 
             cy.log('Клик по кнопке "Войти"')
-            cy.get(':nth-child(4) > .button')
-                .click()
+            cy.get(':nth-child(4) > .button').click()
 
             cy.log('Ввод фамилии')
             cy.get('[style=""] > :nth-child(1) > .form-control--medium > .form-input--text')
@@ -223,8 +222,7 @@ describe('Registration', () => {
                 .type(data.bad_patronym)
 
             cy.log('Проверка появилась ли ошибка')
-                cy.get('.form-error > span')
-                    .should('exist')
+            cy.get('.form-error > span').should('exist')
         })
     })
 })
