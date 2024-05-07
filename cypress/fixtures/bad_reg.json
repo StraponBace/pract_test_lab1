@@ -1,0 +1,15 @@
+{
+  "bad_login": "test 1",
+  "login": "testerq",
+  "bad_mail": "test4mail.ru",
+  "mail": "test4@mail.ru",
+  "bad_password": "парол",
+  "password": "Pas123",
+  "bad_surname": "sur2name!",
+  "surname": "Фамилия",
+  "bad_name": "na2me!",
+  "name": "Имя с пробелом",
+  "bad_patronym": "patr2onym!",
+  "patronym": "Отчество-Двойное"
+
+}

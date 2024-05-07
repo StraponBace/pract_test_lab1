@@ -1,0 +1,8 @@
+{
+  "login": "testqwe",
+  "mail": "test4@mail.ru",
+  "password": "Pas123",
+  "surname": "Фамилия",
+  "name": "Имя с пробелом",
+  "patronym": "Отчество-Двойное"
+}
