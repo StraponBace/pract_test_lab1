@@ -30,7 +30,7 @@ describe('New password', () => {
                 .click()
 
             cy.log('Проверка сообщения')
-            cy.get('.form__buttons > div > .button')
+            cy.get('.form__buttons > div > p')
                 .should('exist')
         })
     })
